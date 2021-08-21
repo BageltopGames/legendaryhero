@@ -829,7 +829,47 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/time-traveling-jean-grey-01.jpg",
     opts: {
       expansion: ["SW2"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Agent X-13",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-x-13-01.jpg",
+    opts: {
+      expansion: ["CA"],
 	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Captain America 1941",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-1941-01.jpg",
+    opts: {
+      expansion: ["CA"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Captain America (Falcon)",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01.jpg",
+    opts: {
+      expansion: ["CA"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Steve Rogers, Director of S.H.I.E.L.D.",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/steve-rogers-01.jpg",
+    opts: {
+      expansion: ["CA"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Winter Soldier",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/winter-soldier-01.jpg",
+    opts: {
+      expansion: ["CA"],
+	  team: ["CA"]	
     }
   },         
    {
@@ -837,7 +877,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/HERO-01.jpg",
     opts: {
       expansion: ["EXP"],
-	  team: ["XM"]	
+	  team: ["XX"]	
     }
   },         
    
