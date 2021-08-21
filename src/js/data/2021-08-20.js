@@ -837,7 +837,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-x-13-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["XM"]	
+	  team: ["SH"]	
     }
   },         
    {
@@ -868,7 +868,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Winter Soldier",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/winter-soldier-01.jpg",
     opts: {
-      expansion: ["CA"],
+      expansion: ["UA"],
 	  team: ["CA"]	
     }
   },         
