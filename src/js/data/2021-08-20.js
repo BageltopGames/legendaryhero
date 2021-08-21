@@ -873,11 +873,51 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
+    name: "Bob, Agent of HYDRA",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/bob-01.jpg",
+    opts: {
+      expansion: ["DP"],
+	  team: ["MM"]	
+    }
+  },         
+   {
+    name: "Deadpool (Mercs for Money)",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/deadpool-01-1.jpg",
+    opts: {
+      expansion: ["DP"],
+	  team: ["MM"]	
+    }
+  },         
+   {
+    name: "Solo",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/solo-01.jpg",
+    opts: {
+      expansion: ["DP"],
+	  team: ["MM"]	
+    }
+  },         
+   {
+    name: "Stingray",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/stingray-01.jpg",
+    opts: {
+      expansion: ["DP"],
+	  team: ["MM"]	
+    }
+  },         
+   {
+    name: "Slapstick",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/slapstick-01.jpg",
+    opts: {
+      expansion: ["DP"],
+	  team: ["MM"]	
+    }
+  },         
+   {
     name: "HERO",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/HERO-01.jpg",
     opts: {
       expansion: ["EXP"],
-	  team: ["XX"]	
+	  team: ["MM"]	
     }
   },         
    
