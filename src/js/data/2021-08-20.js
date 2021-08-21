@@ -913,11 +913,139 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
+    name: "Captain America, Secret Avenger",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-secret-avenger-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Cloak & Dagger",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/cloak-and-dagger-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Daredevil (Avengers)",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-1.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Falcon",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01-1.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Goliath",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/goliath-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Hercules",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/hercules-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Hulkling",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/hulkling-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Luke Cage",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Patriot",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/patriot-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Peter Parker",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/peter-parker-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Speedball",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/speedball-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["NW"]	
+    }
+  },         
+   {
+    name: "Stature",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/stature-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Storm & Black Panther",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-and-storm-01-1.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Tigra",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/tigra-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Vision",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/vision-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Wiccan",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/wiccan-01.jpg",
+    opts: {
+      expansion: ["CW"],
+	  team: ["AV"]	
+    }
+  },         
+   {
     name: "HERO",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/HERO-01.jpg",
     opts: {
-      expansion: ["EXP"],
-	  team: ["MM"]	
+      expansion: ["XX"],
+	  team: ["AV"]	
     }
   },         
    
