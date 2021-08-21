@@ -40,7 +40,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Team",
     key: "team",
     tooltip: "Check this to restrict to characters with a specific team affiliation.",
-    checked: false,
+    checked: true,
     sub: [ { name: "Avengers", key: "AV" , checked:false}, { name: "Brotherhood", key: "BH" , checked:false}, { name: "Cabal", key: "CB" , checked:false}, { name: "Champions", key: "CH" , checked:false}, { name: "Crime Syndicate", key: "CS" , checked:false}, { name: "Fantastic Four", key: "F4" , checked:false}, { name: "Foes of Asgard", key: "FA" , checked:false}, { name: "Guardians of the Galaxy", key: "GG" , checked:false}, { name: "Heroes of Asgard", key: "HA" , checked:false}, { name: "HYDRA", key: "HY" , checked:false}, { name: "Illuminati", key: "IL" , checked:false}, { name: "Inhumans", key: "IH" , checked:false}, { name: "Marvel Knights", key: "MK" , checked:false}, { name: "Mercs for Money", key: "MM" , checked:false}, { name: "New Warriors", key: "NW" , checked:false}, { name: "S.H.I.E.L.D.", key: "SH" , checked:false}, { name: "Sinister Six", key: "S6" , checked:false}, { name: "Spider Friends", key: "SF" , checked:false}, { name: "Unaffiliated", key: "UA" , checked:false}, { name: "Venomverse", key: "VV" , checked:false}, { name: "Warbound", key: "WB" , checked:false}, { name: "X-Force", key: "XF" , checked:false}, { name: "X-Men", key: "XM" , checked:false}
     ]
   }
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Daredevil (Marvel Knights)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01.jpg",
     opts: {
-      expansion: ["DD"],
+      expansion: ["DC"],
 	  team: ["MK"]	
     }
   },
@@ -828,7 +828,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/time-traveling-jean-grey-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["SH"]	
+	  team: ["XM"]	
     }
   },         
    {
@@ -867,8 +867,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Winter Soldier",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/winter-soldier-01.jpg",
     opts: {
-      expansion: ["UA"],
-	  team: ["CA"]	
+      expansion: ["CA"],
+	  team: ["UA"]	
     }
   },         
    {
@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/bob-01.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["MM"]	
+	  team: ["HY"]	
     }
   },         
    {
@@ -924,7 +924,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/cloak-and-dagger-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","MK"]	
     }
   },         
    {
@@ -932,7 +932,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-1.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","MK"]	
     }
   },         
    {
@@ -956,7 +956,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/hercules-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","UA"]	
     }
   },         
    {
@@ -972,7 +972,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","MK"]	
     }
   },         
    {
@@ -988,7 +988,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/peter-parker-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","SF"]	
     }
   },         
    {
@@ -1012,7 +1012,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-and-storm-01-1.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV","XM"]	
     }
   },         
    {
@@ -1372,7 +1372,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.imgur.com/LGtqvzT.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV", "SH"]	
+	  team: ["AV", "SH","UA"]	
     }
   },         
    {
@@ -1380,7 +1380,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.imgur.com/0U8czAo.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV"]	
+	  team: ["AV","UA"]	
     }
   },         
    {
