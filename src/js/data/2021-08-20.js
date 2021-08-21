@@ -25,7 +25,6 @@ dataSet[dataSetVersion].options = [
 	  { name: "Spider-Man Homecoming", key: "SMH" },
 	  { name: "Champions", key: "CHP" },
 	  { name: "World War Hulk", key: "WWH" },
-	  { name: "Marvel Studios, Phase 1", key: "MS" },
 	  { name: "Ant-Man", key: "AM" },
 	  { name: "Venom", key: "VN" },
 	  { name: "Dimensions", key: "DM" },
@@ -1397,6 +1396,46 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.imgur.com/MzmJGu6.jpg",
     opts: {
       expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Ant-Man",
+    img: "https://i.imgur.com/JnK3dnT.png",
+    opts: {
+      expansion: ["AM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Black Knight",
+    img: "https://i.imgur.com/vs7Oi9w.png",
+    opts: {
+      expansion: ["AM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Jocasta",
+    img: "https://i.imgur.com/z9gacc8.png",
+    opts: {
+      expansion: ["AM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Wasp",
+    img: "https://i.imgur.com/wg7HNY7.png",
+    opts: {
+      expansion: ["AM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Wonder Man",
+    img: "https://i.imgur.com/orPhXWV.png",
+    opts: {
+      expansion: ["AM"],
 	  team: ["AV"]	
     }
   },         
