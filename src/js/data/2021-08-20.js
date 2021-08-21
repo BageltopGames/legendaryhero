@@ -152,7 +152,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
    {
-    name: "Thor",
+    name: "Thor (Avengers)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/thor-01.jpg",
     opts: {
       expansion: ["C"],
@@ -1517,6 +1517,262 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       expansion: ["DM"],
 	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Captain Marvel, Agent of S.H.I.E.L.D.",
+    img: "https://i.imgur.com/KBmfJ0P.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Darkhawk",
+    img: "https://i.imgur.com/dfisSLr.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Hellcat",
+    img: "https://i.imgur.com/nc1UG6H.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Photon",
+    img: "https://i.imgur.com/8UAUuU3.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Quicksilver",
+    img: "https://i.imgur.com/seL6LUx.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Ronin",
+    img: "https://i.imgur.com/OnWVkYn.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Scarlet Witch",
+    img: "https://i.imgur.com/Dg2RznS.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Speed",
+    img: "https://i.imgur.com/cN8Rc15.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "War Machine",
+    img: "https://i.imgur.com/rtK7WOw.jpg",
+    opts: {
+      expansion: ["RV"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Agent Phil Coulson",
+    img: "https://i.imgur.com/ln86wnu.jpg",
+    opts: {
+      expansion: ["S"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Deathlok",
+    img: "https://i.imgur.com/nh696WJ.jpg",
+    opts: {
+      expansion: ["S"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Mockingbird",
+    img: "https://i.imgur.com/W1NGjd4.jpg",
+    opts: {
+      expansion: ["S"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Quake",
+    img: "https://i.imgur.com/Wko3gRN.jpg",
+    opts: {
+      expansion: ["S"],
+	  team: ["SH"]	
+    }
+  },         
+   {
+    name: "Beta Ray Bill",
+    img: "https://i.imgur.com/uFhUkI1.jpg",
+    opts: {
+      expansion: ["HOA"],
+	  team: ["HA"]	
+    }
+  },         
+   {
+    name: "Lady Sif",
+    img: "https://i.imgur.com/YTSVYqp.jpg",
+    opts: {
+      expansion: ["HOA"],
+	  team: ["HA"]	
+    }
+  },         
+   {
+    name: "The Warriors Three",
+    img: "https://i.imgur.com/SYQ41NI.jpg",
+    opts: {
+      expansion: ["HOA"],
+	  team: ["HA"]	
+    }
+  },         
+   {
+    name: "Thor (Heroes of Asgard)",
+    img: "https://i.imgur.com/0swtiHd.jpg",
+    opts: {
+      expansion: ["HOA"],
+	  team: ["HA"]	
+    }
+  },         
+   {
+    name: "Valkyrie",
+    img: "https://i.imgur.com/FRrKCjK.jpg",
+    opts: {
+      expansion: ["HOA"],
+	  team: ["HA"]	
+    }
+  },         
+   {
+    name: "Karma",
+    img: "https://i.imgur.com/1dIg69Q.jpg",
+    opts: {
+      expansion: ["NM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Mirage",
+    img: "https://i.imgur.com/RYegWbK.jpg",
+    opts: {
+      expansion: ["NM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Sunspot",
+    img: "https://i.imgur.com/xVA1wHu.jpg",
+    opts: {
+      expansion: ["NM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Warlock",
+    img: "https://i.imgur.com/8U3ig7F.jpg",
+    opts: {
+      expansion: ["NM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Wolfsbane",
+    img: "https://i.imgur.com/HjNW57y.jpg",
+    opts: {
+      expansion: ["NM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Adam Warlock",
+    img: "https://i.imgur.com/hpUDkD9.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Captain Mar-Vell",
+    img: "https://i.imgur.com/cB1AtkF.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Moondragon",
+    img: "https://i.imgur.com/kxTPc9n.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Nebula",
+    img: "https://i.imgur.com/KEm0w0r.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["GG"]	
+    }
+  },         
+   {
+    name: "Nova (Avengers)",
+    img: "https://i.imgur.com/bsNEs3F.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Phyla-Vell",
+    img: "https://i.imgur.com/B4cKYpq.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["GG"]	
+    }
+  },         
+   {
+    name: "Quasar",
+    img: "https://i.imgur.com/ZBnxxUg.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Ronan the Accuser",
+    img: "https://i.imgur.com/OfPzSss.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["UA"]	
+    }
+  },         
+   {
+    name: "Yondu",
+    img: "https://i.imgur.com/LxdA58Q.jpg",
+    opts: {
+      expansion: ["ITC"],
+	  team: ["GG"]	
     }
   },         
    {
