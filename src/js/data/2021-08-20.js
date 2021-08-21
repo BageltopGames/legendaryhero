@@ -1041,6 +1041,46 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
+    name: "Angel Noir",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/angel-noir-01.jpg",
+    opts: {
+      expansion: ["NOIR"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Daredevil Noir",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-2.jpg",
+    opts: {
+      expansion: ["NOIR"],
+	  team: ["MK"]	
+    }
+  },         
+   {
+    name: "Iron Man Noir",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/iron-man-noir-01.jpg",
+    opts: {
+      expansion: ["NOIR"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Luke Cage Noir",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-noir-01.jpg",
+    opts: {
+      expansion: ["NOIR"],
+	  team: ["MK"]	
+    }
+  },         
+   {
+    name: "Spider-Man Noir",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-man-noir-01.jpg",
+    opts: {
+      expansion: ["NOIR"],
+	  team: ["SF"]	
+    }
+  },         
+   {
     name: "HERO",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/HERO-01.jpg",
     opts: {
