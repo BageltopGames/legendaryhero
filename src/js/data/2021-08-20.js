@@ -1241,8 +1241,168 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
+    name: "Gwenpool",
+    img: "https://i.imgur.com/NdDnPia.png",
+    opts: {
+      expansion: ["CHP"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Ms. Marvel",
+    img: "https://i.imgur.com/dv1sfCr.png",
+    opts: {
+      expansion: ["CHP"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Nova (Champions)",
+    img: "https://i.imgur.com/wRJHwMM.png",
+    opts: {
+      expansion: ["CHP"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Totally Awesome Hulk",
+    img: "https://i.imgur.com/8PLuiVG.png",
+    opts: {
+      expansion: ["CHP"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Viv Vision",
+    img: "https://i.imgur.com/U9hlkfI.png",
+    opts: {
+      expansion: ["CHP"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Amadeus Cho",
+    img: "https://i.imgur.com/4QsCmb1.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "No-Name, Brood Queen",
+    img: "https://i.imgur.com/3JPsq0N.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Bruce Banner",
+    img: "https://i.imgur.com/ozZhPgF.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Caiera",
+    img: "https://i.imgur.com/hIhIq2c.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Gladiator Hulk",
+    img: "https://i.imgur.com/uN8fBNT.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Hiroim",
+    img: "https://i.imgur.com/O9sWkIL.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Hulkbuster Iron Man",
+    img: "https://i.imgur.com/PxOdKio.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Joe Fixit, Grey Hulk",
+    img: "https://i.imgur.com/l4RrxYn.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["CS"]	
+    }
+  },         
+   {
+    name: "Korg",
+    img: "https://i.imgur.com/JZaXYUU.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Miek, The Unhived",
+    img: "https://i.imgur.com/6rjtbEj.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["WB"]	
+    }
+  },         
+   {
+    name: "Namora",
+    img: "https://i.imgur.com/veeypHz.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["CH"]	
+    }
+  },         
+   {
+    name: "Rick Jones",
+    img: "https://i.imgur.com/LGtqvzT.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV", "SH"]	
+    }
+  },         
+   {
+    name: "Sentry",
+    img: "https://i.imgur.com/0U8czAo.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "She-Hulk",
+    img: "https://i.imgur.com/l6phoLu.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Skaar, Son of Hulk",
+    img: "https://i.imgur.com/MzmJGu6.jpg",
+    opts: {
+      expansion: ["WWH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
     name: "HERO",
-    img: "LINK",
+    img: "IMAGE",
     opts: {
       expansion: ["XX"],
 	  team: ["XX"]	
