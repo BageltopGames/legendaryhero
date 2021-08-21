@@ -41,7 +41,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Team",
     key: "team",
     tooltip: "Check this to restrict to characters with a specific team affiliation.",
-    checked: true,
+    checked: false,
     sub: [ { name: "Avengers", key: "AV" , checked:false}, { name: "Brotherhood", key: "BH" , checked:false}, { name: "Cabal", key: "CB" , checked:false}, { name: "Champions", key: "CH" , checked:false}, { name: "Crime Syndicate", key: "CS" , checked:false}, { name: "Fantastic Four", key: "F4" , checked:false}, { name: "Foes of Asgard", key: "FA" , checked:false}, { name: "Guardians of the Galaxy", key: "GG" , checked:false}, { name: "Heroes of Asgard", key: "HA" , checked:false}, { name: "HYDRA", key: "HY" , checked:false}, { name: "Illuminati", key: "IL" , checked:false}, { name: "Inhumans", key: "IH" , checked:false}, { name: "Marvel Knights", key: "MK" , checked:false}, { name: "Mercs for Money", key: "MM" , checked:false}, { name: "New Warriors", key: "NW" , checked:false}, { name: "S.H.I.E.L.D.", key: "SH" , checked:false}, { name: "Sinister Six", key: "S6" , checked:false}, { name: "Spider Friends", key: "SF" , checked:false}, { name: "Unaffiliated", key: "UA" , checked:false}, { name: "Venomverse", key: "VV" , checked:false}, { name: "Warbound", key: "WB" , checked:false}, { name: "X-Force", key: "XF" , checked:false}, { name: "X-Men", key: "XM" , checked:false}
     ]
   }
