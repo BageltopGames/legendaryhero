@@ -496,7 +496,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
    {
-    name: "Venom",
+    name: "Venom (Sinister Six)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/venom-01.jpg",
     opts: {
       expansion: ["V"],
@@ -1436,6 +1436,86 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.imgur.com/orPhXWV.png",
     opts: {
       expansion: ["AM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Carnage",
+    img: "https://i.imgur.com/4fc1aGe.png",
+    opts: {
+      expansion: ["VN"],
+	  team: ["VV"]	
+    }
+  },         
+   {
+    name: "Venom (Venomverse)",
+    img: "https://i.imgur.com/F4ERUnt.png",
+    opts: {
+      expansion: ["VN"],
+	  team: ["VV"]	
+    }
+  },         
+   {
+    name: "Venomized Dr. Strange",
+    img: "https://i.imgur.com/nTdSc79.png",
+    opts: {
+      expansion: ["VN"],
+	  team: ["VV"]	
+    }
+  },         
+   {
+    name: "Venompool",
+    img: "https://i.imgur.com/eNjnuGl.png",
+    opts: {
+      expansion: ["VN"],
+	  team: ["VV"]	
+    }
+  },         
+   {
+    name: "Venom Rocket",
+    img: "https://i.imgur.com/Xoqx0By.jpg",
+    opts: {
+      expansion: ["VN"],
+	  team: ["VV"]	
+    }
+  },         
+   {
+    name: "Howard the Duck",
+    img: "https://i.imgur.com/sUeJNHs.png",
+    opts: {
+      expansion: ["DM"],
+	  team: ["UA"]	
+    }
+  },         
+   {
+    name: "Jessica Jones",
+    img: "https://i.imgur.com/r7DVc36.png",
+    opts: {
+      expansion: ["DM"],
+	  team: ["MK"]	
+    }
+  },         
+   {
+    name: "Man-Thing",
+    img: "https://i.imgur.com/Gv82Sqz.png",
+    opts: {
+      expansion: ["DM"],
+	  team: ["UA"]	
+    }
+  },         
+   {
+    name: "Ms. America",
+    img: "https://i.imgur.com/sHwSPYT.png",
+    opts: {
+      expansion: ["DM"],
+	  team: ["AV"]	
+    }
+  },         
+   {
+    name: "Squirrel Girl",
+    img: "https://i.imgur.com/32DUyzh.png",
+    opts: {
+      expansion: ["DM"],
 	  team: ["AV"]	
     }
   },         
