@@ -1776,11 +1776,43 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
-    name: "HERO",
-    img: "IMAGE",
+    name: "Black Bolt (Inhumans)",
+    img: "https://i.imgur.com/bhd4517.png",
     opts: {
-      expansion: ["XX"],
-	  team: ["XX"]	
+      expansion: ["ROK"],
+	  team: ["IH"]	
+    }
+  },         
+   {
+    name: "Medusa",
+    img: "https://i.imgur.com/MC0Go9N.png",
+    opts: {
+      expansion: ["ROK"],
+	  team: ["IH"]	
+    }
+  },         
+   {
+    name: "Karnak",
+    img: "https://i.imgur.com/E1rUWbS.png",
+    opts: {
+      expansion: ["ROK"],
+	  team: ["IH"]	
+    }
+  },         
+   {
+    name: "Gorgon",
+    img: "https://i.imgur.com/3vG0jzI.png",
+    opts: {
+      expansion: ["ROK"],
+	  team: ["IH"]	
+    }
+  },         
+   {
+    name: "Crytal",
+    img: "https://i.imgur.com/tO4wiII.png",
+    opts: {
+      expansion: ["ROK"],
+	  team: ["IH"]	
     }
   },         
    
