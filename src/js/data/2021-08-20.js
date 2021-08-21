@@ -21,7 +21,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Civil War", key: "CW" },
 	  { name: "Deadpool", key: "DP" },
 	  { name: "Noir", key: "NOIR" },
-	  { name: "X-Men", key: "X" },
+	  { name: "X-Men", key: "XM" },
 	  { name: "Spider-Man Homecoming", key: "SMH" },
 	  { name: "Champions", key: "CHP" },
 	  { name: "World War Hulk", key: "WWH" },
@@ -284,8 +284,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Professor X",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/professor-x-01.jpg",
     opts: {
-      expansion: ["XM"],
-	  team: ["AV"]	
+      expansion: ["DC"],
+	  team: ["XM"]	
     }
   },
    {
@@ -1081,11 +1081,171 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
+    name: "Aurora & Northstar",
+    img: "https://i.imgur.com/X5GNPPd.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Banshee",
+    img: "https://i.imgur.com/EunCbtJ.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Beast (X-Men)",
+    img: "https://i.imgur.com/vbRD2io.png.jpg",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Cannonball",
+    img: "https://i.imgur.com/tolduBu.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Colossus & Wolverine",
+    img: "https://i.imgur.com/lRt7HQo.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Dazzler",
+    img: "https://i.imgur.com/Wgj3tOM.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Havok",
+    img: "https://i.imgur.com/LTC36Wx.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Jubilee",
+    img: "https://i.imgur.com/9wbpO2M.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Kitty Pryde",
+    img: "https://i.imgur.com/YbzMZG1.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Legion",
+    img: "https://i.imgur.com/TNZRPx4.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Longshot",
+    img: "https://i.imgur.com/UMkU0vO.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Phoenix",
+    img: "https://i.imgur.com/hWyxhoB.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Polaris",
+    img: "https://i.imgur.com/5fwZbYI.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Psylocke",
+    img: "https://i.imgur.com/NjfCD1c.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "X-23",
+    img: "https://i.imgur.com/AufdbKP.png",
+    opts: {
+      expansion: ["XM"],
+	  team: ["XM"]	
+    }
+  },         
+   {
+    name: "Happy Hogan",
+    img: "https://i.imgur.com/5HOIsEG.png",
+    opts: {
+      expansion: ["SMH"],
+	  team: ["UA"]	
+    }
+  },         
+   {
+    name: "High Tech Spider-Man",
+    img: "https://i.imgur.com/3rgh4hQ.png",
+    opts: {
+      expansion: ["SMH"],
+	  team: ["SF"]	
+    }
+  },         
+   {
+    name: "Peter Parker, Homecoming",
+    img: "https://i.imgur.com/KqblvIj.png",
+    opts: {
+      expansion: ["SMH"],
+	  team: ["SF"]	
+    }
+  },         
+   {
+    name: "Peter's Allies",
+    img: "https://i.imgur.com/YgYgLxh.png",
+    opts: {
+      expansion: ["SMH"],
+	  team: ["SF"]	
+    }
+  },         
+   {
+    name: "Tony Stark",
+    img: "https://i.imgur.com/4lQpGUO.png",
+    opts: {
+      expansion: ["SMH"],
+	  team: ["AV"]	
+    }
+  },         
+   {
     name: "HERO",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/HERO-01.jpg",
+    img: "LINK",
     opts: {
       expansion: ["XX"],
-	  team: ["AV"]	
+	  team: ["XX"]	
     }
   },         
    
