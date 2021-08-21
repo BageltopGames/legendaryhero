@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Fear Itself", key: "FI" },
 	  { name: "Secret Wars, Volume 1", key: "SW1" },
 	  { name: "Secret Wars, Volume 2", key: "SW2" },
-	  { name: "Captain America 75th Anniversary", key: "CA" },
+	  { name: "Captain America 75th", key: "CA" },
 	  { name: "Civil War", key: "CW" },
 	  { name: "Deadpool", key: "DP" },
 	  { name: "Noir", key: "NOIR" },
