@@ -1808,7 +1808,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },         
    {
-    name: "Crytal",
+    name: "Crystal",
     img: "https://i.imgur.com/tO4wiII.png",
     opts: {
       expansion: ["ROK"],

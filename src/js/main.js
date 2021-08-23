@@ -604,7 +604,7 @@ function generateImage() {
     resetButton.insertAdjacentText('beforeend', 'Reset');
     resetButton.addEventListener('click', (event) => {
       imgButton.addEventListener('click', generateImage);
-      imgButton.innerHTML = 'Generate Image';
+      imgButton.innerHTML = 'Generate Image (Top 136 Heroes)';
       event.stopPropagation();
     });
     imgButton.insertAdjacentElement('beforeend', resetButton);
