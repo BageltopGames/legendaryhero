@@ -417,7 +417,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Green Goblin",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/green-goblin-01.jpg",
+    img: "https://i.imgur.com/9EGNhaC.png",
     opts: {
       expansion: ["V"],
 	  team: ["S6"]
@@ -545,7 +545,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Greithoth, Breaker of Wills",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/greithoth-01.jpg",
+    img: "https://i.imgur.com/PqRcXK7.png",
     opts: {
       expansion: ["FI"],
 	  team: ["FA"]
@@ -553,7 +553,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Kuurth, Breaker of Stone",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/kuurth-01.jpg",
+    img: "https://i.imgur.com/wfj36Jf.png",
     opts: {
       expansion: ["FI"],
 	  team: ["FA"]
@@ -561,7 +561,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Nerkkod, Breaker of Oceans",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/nerkkod-01.jpg",
+    img: "https://i.imgur.com/HHpqmMg.png",
     opts: {
       expansion: ["FI"],
 	  team: ["FA"]
@@ -569,7 +569,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Nul, Breaker of Worlds",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/nul-01.jpg",
+    img: "https://i.imgur.com/NnRS5fG.png",
     opts: {
       expansion: ["FI"],
 	  team: ["FA"]
@@ -577,7 +577,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Skirn, Breaker of Men",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/skirn-01.jpg",
+    img: "https://i.imgur.com/9WlmJCL.png",
     opts: {
       expansion: ["FI"],
 	  team: ["FA"]
@@ -585,7 +585,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Skadi",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/skadi-01.jpg",
+    img: "https://i.imgur.com/rjnimK9.png",
     opts: {
       expansion: ["FI"],
 	  team: ["HY"]
@@ -593,7 +593,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Apocalyptic Kitty Pryde",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/apocalyptic-kitty-pryde-01.jpg",
+    img: "https://i.imgur.com/Ee2yzDJ.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["XM"]
@@ -601,7 +601,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Black Bolt (Illuminati)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-bolt-01.jpg",
+    img: "https://i.imgur.com/Hxfz72s.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["IL"]
@@ -609,7 +609,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Black Panther",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-01.jpg",
+    img: "https://i.imgur.com/cvvgCoK.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["IL"]
@@ -617,7 +617,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain Marvel",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-marvel-01.jpg",
+    img: "https://i.imgur.com/nT00WZp.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["AV"]
@@ -625,7 +625,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Dr. Strange",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-strange-01-1.jpg",
+    img: "https://i.imgur.com/45K5CMt.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["IL"]
@@ -633,7 +633,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Lady Thor",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/lady-thor-01.jpg",
+    img: "https://i.imgur.com/yfPd95F.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["AV"]
@@ -641,7 +641,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Magik",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/magik-01.jpg",
+    img: "https://i.imgur.com/rQCT1Ku.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["XM"]
@@ -649,7 +649,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Maximus",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/maximus-01.jpg",
+    img: "https://i.imgur.com/PwkUTYH.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["CB"]
@@ -657,7 +657,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Namor, the Sub-Mariner",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/namor-01.jpg",
+    img: "https://i.imgur.com/qqso5cw.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["CB"]
@@ -665,7 +665,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Old Man Logan",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/old-man-logan-01.jpg",
+    img: "https://i.imgur.com/4eQZuIk.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["XM"]
@@ -673,7 +673,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Proxima Midnight",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/proxima-midnight-01.jpg",
+    img: "https://i.imgur.com/1ib8uva.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["CB"]
@@ -681,7 +681,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Superior Iron Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/superior-iron-man-01.jpg",
+    img: "https://i.imgur.com/ktPQJAG.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["IL"]
@@ -689,7 +689,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Thanos",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/thanos-01-1.jpg",
+    img: "https://i.imgur.com/yfPd95F.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["CB"]
@@ -697,7 +697,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ultimate Spider-Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/ultimate-spider-man-05.jpg",
+    img: "https://i.imgur.com/Dgcrf4K.png",
     opts: {
       expansion: ["SW1"],
 	  team: ["SF"]
@@ -705,7 +705,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Agent Venom",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-venom-01.jpg",
+    img: "https://i.imgur.com/QaHGFEP.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["SF"]
@@ -713,7 +713,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Arkon the Magnificent",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/arkon-01.jpg",
+    img: "https://i.imgur.com/CiZEC1t.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["UA"]
@@ -721,7 +721,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Beast (Illuminati)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/beast-01.jpg",
+    img: "https://i.imgur.com/OLOFnRu.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["IL"]
@@ -729,7 +729,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Black Swan",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-swan-01.jpg",
+    img: "https://i.imgur.com/e7nmUz8.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["CB"]
@@ -737,7 +737,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain Britain",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-britain-01.jpg",
+    img: "https://i.imgur.com/mg7VBBa.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["IL"]
@@ -745,7 +745,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Corvus Glaive",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/corvus-glaive-01.jpg",
+    img: "https://i.imgur.com/P9K347G.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["CB"]
@@ -753,7 +753,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Dr. Punisher, Soldier Supreme",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-punisher-soldier-supreme-01.jpg",
+    img: "https://i.imgur.com/uZ4hhsp.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["MK"]
@@ -761,7 +761,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Elsa Bloodstone",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/elsa-bloodstone-01.jpg",
+    img: "https://i.imgur.com/uuaLmzS.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["SH"]
@@ -769,7 +769,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Phoenix Force Cyclops",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/phoenix-force-cyclops-01.jpg",
+    img: "https://i.imgur.com/tSlyci8.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["XM"]
@@ -777,7 +777,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ruby Summers",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/ruby-summers-01.jpg",
+    img: "https://i.imgur.com/jY3iEl6.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["XM"]
@@ -785,7 +785,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Shang-Chi",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/shang-chi-01.jpg",
+    img: "https://i.imgur.com/eQRyiQs.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["MK"]
@@ -793,7 +793,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Silk",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/silk-01.jpg",
+    img: "https://i.imgur.com/YGYtw1U.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["SF"]
@@ -801,7 +801,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Soulsword Colossus",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/soulsword-colossus-01.jpg",
+    img: "https://i.imgur.com/Pbe9rLR.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["XM"]
@@ -809,7 +809,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Spider-Gwen",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-gwen-01.jpg",
+    img: "https://i.imgur.com/OGAC7Pb.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["SF"]
@@ -817,7 +817,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "The Captain & the Devil",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-and-the-devil-01.jpg",
+    img: "https://i.imgur.com/26yprFh.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["AV"]
@@ -825,7 +825,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Time-Traveling Jean Grey",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/time-traveling-jean-grey-01.jpg",
+    img: "https://i.imgur.com/aeMyB94.png",
     opts: {
       expansion: ["SW2"],
 	  team: ["XM"]
@@ -833,7 +833,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Agent X-13",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-x-13-01.jpg",
+    img: "https://i.imgur.com/st3njKj.png",
     opts: {
       expansion: ["CA"],
 	  team: ["SH"]
@@ -841,7 +841,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain America 1941",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-1941-01.jpg",
+    img: "https://i.imgur.com/YOSyJn7.png",
     opts: {
       expansion: ["CA"],
 	  team: ["AV"]
@@ -849,7 +849,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain America (Falcon)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01.jpg",
+    img: "https://i.imgur.com/2I3z9aT.png",
     opts: {
       expansion: ["CA"],
 	  team: ["AV"]
@@ -857,7 +857,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Steve Rogers, Director of S.H.I.E.L.D.",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/steve-rogers-01.jpg",
+    img: "https://i.imgur.com/Z0MgyNa.png",
     opts: {
       expansion: ["CA"],
 	  team: ["SH"]
@@ -865,7 +865,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Winter Soldier",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/winter-soldier-01.jpg",
+    img: "https://i.imgur.com/DdDLjy2.png",
     opts: {
       expansion: ["CA"],
 	  team: ["UA"]
@@ -873,7 +873,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Bob, Agent of HYDRA",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/bob-01.jpg",
+    img: "https://i.imgur.com/WeS4m3e.png",
     opts: {
       expansion: ["DP"],
 	  team: ["HY"]
@@ -881,7 +881,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Deadpool (Mercs for Money)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/deadpool-01-1.jpg",
+    img: "https://i.imgur.com/YD93Rnt.png",
     opts: {
       expansion: ["DP"],
 	  team: ["MM"]
@@ -889,7 +889,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Solo",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/solo-01.jpg",
+    img: "https://i.imgur.com/PUAVxw6.png",
     opts: {
       expansion: ["DP"],
 	  team: ["MM"]
@@ -897,7 +897,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Stingray",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/stingray-01.jpg",
+    img: "https://i.imgur.com/LUsHRAM.png",
     opts: {
       expansion: ["DP"],
 	  team: ["MM"]
@@ -905,7 +905,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Slapstick",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/slapstick-01.jpg",
+    img: "https://i.imgur.com/K5rfyWE.png",
     opts: {
       expansion: ["DP"],
 	  team: ["MM"]
@@ -913,7 +913,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain America, Secret Avenger",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-secret-avenger-01.jpg",
+    img: "https://i.imgur.com/QJxPBcf.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -921,7 +921,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Cloak & Dagger",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/cloak-and-dagger-01.jpg",
+    img: "https://i.imgur.com/iAOGTlq.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","MK"]
@@ -929,7 +929,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Daredevil (Avengers)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-1.jpg",
+    img: "https://i.imgur.com/TY2Qm8O.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","MK"]
@@ -937,7 +937,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Falcon",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01-1.jpg",
+    img: "https://i.imgur.com/P4MAlpw.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -945,7 +945,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Goliath",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/goliath-01.jpg",
+    img: "https://i.imgur.com/c5oBa4B.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -953,7 +953,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Hercules",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/hercules-01.jpg",
+    img: "https://i.imgur.com/H2I5kQz.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","UA"]
@@ -961,7 +961,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Hulkling",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/hulkling-01.jpg",
+    img: "https://i.imgur.com/abj28Nw.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -969,7 +969,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Luke Cage",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-01.jpg",
+    img: "https://i.imgur.com/3QknIzG.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","MK"]
@@ -977,7 +977,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Patriot",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/patriot-01.jpg",
+    img: "https://i.imgur.com/lTQG2BH.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -985,7 +985,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Peter Parker",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/peter-parker-01.jpg",
+    img: "https://i.imgur.com/vjzyubl.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","SF"]
@@ -993,7 +993,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Speedball",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/speedball-01.jpg",
+    img: "https://i.imgur.com/sOWkcMd.png",
     opts: {
       expansion: ["CW"],
 	  team: ["NW"]
@@ -1001,7 +1001,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Stature",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/stature-01.jpg",
+    img: "https://i.imgur.com/gi5r5j2.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -1009,7 +1009,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Storm & Black Panther",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-and-storm-01-1.jpg",
+    img: "https://i.imgur.com/sU9GoGW.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV","XM"]
@@ -1017,7 +1017,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Tigra",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/tigra-01.jpg",
+    img: "https://i.imgur.com/qg9FoZw.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -1025,7 +1025,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Vision",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/vision-01.jpg",
+    img: "https://i.imgur.com/RRiRbo2.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -1033,7 +1033,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Wiccan",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/wiccan-01.jpg",
+    img: "https://i.imgur.com/mfsQwTg.png",
     opts: {
       expansion: ["CW"],
 	  team: ["AV"]
@@ -1041,7 +1041,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Angel Noir",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/angel-noir-01.jpg",
+    img: "https://i.imgur.com/JNKFfj3.png",
     opts: {
       expansion: ["NOIR"],
 	  team: ["XM"]
@@ -1049,7 +1049,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Daredevil Noir",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-2.jpg",
+    img: "https://i.imgur.com/Sa8tX8q.png",
     opts: {
       expansion: ["NOIR"],
 	  team: ["MK"]
@@ -1057,7 +1057,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Iron Man Noir",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/iron-man-noir-01.jpg",
+    img: "https://i.imgur.com/ObZ30FH.png",
     opts: {
       expansion: ["NOIR"],
 	  team: ["AV"]
@@ -1065,7 +1065,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Luke Cage Noir",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-noir-01.jpg",
+    img: "https://i.imgur.com/JrHXe6I.png",
     opts: {
       expansion: ["NOIR"],
 	  team: ["MK"]
@@ -1073,7 +1073,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Spider-Man Noir",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-man-noir-01.jpg",
+    img: "https://i.imgur.com/2FuuyD1.png",
     opts: {
       expansion: ["NOIR"],
 	  team: ["SF"]
@@ -1081,7 +1081,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Aurora & Northstar",
-    img: "https://i.imgur.com/X5GNPPd.png",
+    img: "https://i.imgur.com/JCQl5PS.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1089,7 +1089,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Banshee",
-    img: "https://i.imgur.com/EunCbtJ.png",
+    img: "https://i.imgur.com/qzlnTWt.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1097,7 +1097,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Beast (X-Men)",
-    img: "https://i.imgur.com/vbRD2io.png.jpg",
+    img: "https://i.imgur.com/W2T4t2X.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1105,7 +1105,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Cannonball",
-    img: "https://i.imgur.com/tolduBu.png",
+    img: "https://i.imgur.com/q0IsBQT.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1113,7 +1113,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Colossus & Wolverine",
-    img: "https://i.imgur.com/lRt7HQo.png",
+    img: "https://i.imgur.com/QHwpZvl.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1121,7 +1121,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Dazzler",
-    img: "https://i.imgur.com/Wgj3tOM.png",
+    img: "https://i.imgur.com/7KkkWAQ.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1129,7 +1129,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Havok",
-    img: "https://i.imgur.com/LTC36Wx.png",
+    img: "https://i.imgur.com/fBvAYUw.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1137,7 +1137,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Jubilee",
-    img: "https://i.imgur.com/9wbpO2M.png",
+    img: "https://i.imgur.com/G4sb9cc.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1145,7 +1145,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Kitty Pryde",
-    img: "https://i.imgur.com/YbzMZG1.png",
+    img: "https://i.imgur.com/8iDNNwZ.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1153,7 +1153,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Legion",
-    img: "https://i.imgur.com/TNZRPx4.png",
+    img: "https://i.imgur.com/Ed06dQM.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1161,7 +1161,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Longshot",
-    img: "https://i.imgur.com/UMkU0vO.png",
+    img: "https://i.imgur.com/kN4uFZD.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1169,7 +1169,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Phoenix",
-    img: "https://i.imgur.com/hWyxhoB.png",
+    img: "https://i.imgur.com/8iDNNwZ.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1177,7 +1177,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Polaris",
-    img: "https://i.imgur.com/5fwZbYI.png",
+    img: "https://i.imgur.com/WJiag6p.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1185,7 +1185,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Psylocke",
-    img: "https://i.imgur.com/NjfCD1c.png",
+    img: "https://i.imgur.com/sfKk2L7.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
@@ -1193,7 +1193,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "X-23",
-    img: "https://i.imgur.com/AufdbKP.png",
+    img: "https://i.imgur.com/1i5EoPi.png",
     opts: {
       expansion: ["XM"],
 	  team: ["XM"]
