@@ -1201,7 +1201,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Happy Hogan",
-    img: "https://i.imgur.com/5HOIsEG.png",
+    img: "https://i.imgur.com/iCcDdgD.png",
     opts: {
       expansion: ["SMH"],
 	  team: ["UA"]
@@ -1209,7 +1209,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "High Tech Spider-Man",
-    img: "https://i.imgur.com/3rgh4hQ.png",
+    img: "https://i.imgur.com/InfRi8c.png",
     opts: {
       expansion: ["SMH"],
 	  team: ["SF"]
@@ -1217,7 +1217,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Peter Parker, Homecoming",
-    img: "https://i.imgur.com/KqblvIj.png",
+    img: "https://i.imgur.com/KiSE776.png",
     opts: {
       expansion: ["SMH"],
 	  team: ["SF"]
@@ -1225,7 +1225,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Peter's Allies",
-    img: "https://i.imgur.com/YgYgLxh.png",
+    img: "https://i.imgur.com/Nr13WOz.png",
     opts: {
       expansion: ["SMH"],
 	  team: ["SF"]
@@ -1233,7 +1233,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Tony Stark",
-    img: "https://i.imgur.com/4lQpGUO.png",
+    img: "https://i.imgur.com/7hFFi28.png",
     opts: {
       expansion: ["SMH"],
 	  team: ["AV"]
@@ -1241,7 +1241,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Gwenpool",
-    img: "https://i.imgur.com/NdDnPia.png",
+    img: "https://i.imgur.com/efoQdst.png",
     opts: {
       expansion: ["CHP"],
 	  team: ["CH"]
@@ -1249,7 +1249,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ms. Marvel",
-    img: "https://i.imgur.com/dv1sfCr.png",
+    img: "https://i.imgur.com/Z5YLhWO.png",
     opts: {
       expansion: ["CHP"],
 	  team: ["CH"]
@@ -1257,7 +1257,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Nova (Champions)",
-    img: "https://i.imgur.com/wRJHwMM.png",
+    img: "https://i.imgur.com/wjb9mpg.png",
     opts: {
       expansion: ["CHP"],
 	  team: ["CH"]
@@ -1265,7 +1265,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Totally Awesome Hulk",
-    img: "https://i.imgur.com/8PLuiVG.png",
+    img: "https://i.imgur.com/wTOloGT.png",
     opts: {
       expansion: ["CHP"],
 	  team: ["CH"]
@@ -1273,7 +1273,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Viv Vision",
-    img: "https://i.imgur.com/U9hlkfI.png",
+    img: "https://i.imgur.com/uT8CneN.png",
     opts: {
       expansion: ["CHP"],
 	  team: ["CH"]
@@ -1281,7 +1281,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Amadeus Cho",
-    img: "https://i.imgur.com/4QsCmb1.jpg",
+    img: "https://i.imgur.com/DVSQEwg.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["CH"]
@@ -1289,7 +1289,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "No-Name, Brood Queen",
-    img: "https://i.imgur.com/3JPsq0N.jpg",
+    img: "https://i.imgur.com/5EUtYiv.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1297,7 +1297,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Bruce Banner",
-    img: "https://i.imgur.com/ozZhPgF.jpg",
+    img: "https://i.imgur.com/ZZLw9PV.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV"]
@@ -1305,7 +1305,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Caiera",
-    img: "https://i.imgur.com/hIhIq2c.jpg",
+    img: "https://i.imgur.com/Sq4vyCE.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1313,7 +1313,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Gladiator Hulk",
-    img: "https://i.imgur.com/uN8fBNT.jpg",
+    img: "https://i.imgur.com/tcz7PjV.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1321,7 +1321,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Hiroim",
-    img: "https://i.imgur.com/O9sWkIL.jpg",
+    img: "https://i.imgur.com/VQRTy0l.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1329,7 +1329,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Hulkbuster Iron Man",
-    img: "https://i.imgur.com/PxOdKio.jpg",
+    img: "https://i.imgur.com/QJUNYgz.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV"]
@@ -1337,7 +1337,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Joe Fixit, Grey Hulk",
-    img: "https://i.imgur.com/l4RrxYn.jpg",
+    img: "https://i.imgur.com/iY3lIJ5.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["CS"]
@@ -1345,7 +1345,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Korg",
-    img: "https://i.imgur.com/JZaXYUU.jpg",
+    img: "https://i.imgur.com/yvpxT3f.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1353,7 +1353,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Miek, The Unhived",
-    img: "https://i.imgur.com/6rjtbEj.jpg",
+    img: "https://i.imgur.com/Qz2XZ6E.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["WB"]
@@ -1361,7 +1361,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Namora",
-    img: "https://i.imgur.com/veeypHz.jpg",
+    img: "https://i.imgur.com/x3D0pWg.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["CH"]
@@ -1369,7 +1369,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Rick Jones",
-    img: "https://i.imgur.com/LGtqvzT.jpg",
+    img: "https://i.imgur.com/QCBYZKx.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV", "SH","UA"]
@@ -1377,7 +1377,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Sentry",
-    img: "https://i.imgur.com/0U8czAo.jpg",
+    img: "https://i.imgur.com/flQ3zMm.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV","UA"]
@@ -1385,7 +1385,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "She-Hulk",
-    img: "https://i.imgur.com/l6phoLu.jpg",
+    img: "https://i.imgur.com/dHcmeu8.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV"]
@@ -1393,7 +1393,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Skaar, Son of Hulk",
-    img: "https://i.imgur.com/MzmJGu6.jpg",
+    img: "https://i.imgur.com/AKNzcJp.png",
     opts: {
       expansion: ["WWH"],
 	  team: ["AV"]
@@ -1401,7 +1401,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ant-Man",
-    img: "https://i.imgur.com/JnK3dnT.png",
+    img: "https://i.imgur.com/vvIBUyX.png",
     opts: {
       expansion: ["AM"],
 	  team: ["AV"]
@@ -1409,7 +1409,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Black Knight",
-    img: "https://i.imgur.com/vs7Oi9w.png",
+    img: "https://i.imgur.com/QIWC1dy.png",
     opts: {
       expansion: ["AM"],
 	  team: ["AV"]
@@ -1417,7 +1417,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Jocasta",
-    img: "https://i.imgur.com/z9gacc8.png",
+    img: "https://i.imgur.com/sVRwsSc.png",
     opts: {
       expansion: ["AM"],
 	  team: ["AV"]
@@ -1425,7 +1425,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Wasp",
-    img: "https://i.imgur.com/wg7HNY7.png",
+    img: "https://i.imgur.com/2flLKWT.png",
     opts: {
       expansion: ["AM"],
 	  team: ["AV"]
@@ -1433,7 +1433,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Wonder Man",
-    img: "https://i.imgur.com/orPhXWV.png",
+    img: "https://i.imgur.com/VrOXTxA.png",
     opts: {
       expansion: ["AM"],
 	  team: ["AV"]
@@ -1441,7 +1441,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Carnage",
-    img: "https://i.imgur.com/4fc1aGe.png",
+    img: "https://i.imgur.com/vtrb2ty.png",
     opts: {
       expansion: ["VN"],
 	  team: ["VV"]
@@ -1449,7 +1449,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Venom (Venomverse)",
-    img: "https://i.imgur.com/F4ERUnt.png",
+    img: "https://i.imgur.com/m0jgFH9.png",
     opts: {
       expansion: ["VN"],
 	  team: ["VV"]
@@ -1457,7 +1457,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Venomized Dr. Strange",
-    img: "https://i.imgur.com/nTdSc79.png",
+    img: "https://i.imgur.com/uujwMgn.png",
     opts: {
       expansion: ["VN"],
 	  team: ["VV"]
@@ -1465,7 +1465,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Venompool",
-    img: "https://i.imgur.com/eNjnuGl.png",
+    img: "https://i.imgur.com/CvpBrPX.png",
     opts: {
       expansion: ["VN"],
 	  team: ["VV"]
@@ -1473,7 +1473,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Venom Rocket",
-    img: "https://i.imgur.com/Xoqx0By.jpg",
+    img: "https://i.imgur.com/EsGnIRJ.png",
     opts: {
       expansion: ["VN"],
 	  team: ["VV"]
@@ -1481,7 +1481,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Howard the Duck",
-    img: "https://i.imgur.com/sUeJNHs.png",
+    img: "https://i.imgur.com/qDFGgE0.png",
     opts: {
       expansion: ["DM"],
 	  team: ["UA"]
@@ -1489,7 +1489,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Jessica Jones",
-    img: "https://i.imgur.com/r7DVc36.png",
+    img: "https://i.imgur.com/yttSft4.png",
     opts: {
       expansion: ["DM"],
 	  team: ["MK"]
@@ -1497,7 +1497,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Man-Thing",
-    img: "https://i.imgur.com/Gv82Sqz.png",
+    img: "https://i.imgur.com/ruPgF3n.png",
     opts: {
       expansion: ["DM"],
 	  team: ["UA"]
@@ -1505,7 +1505,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ms. America",
-    img: "https://i.imgur.com/sHwSPYT.png",
+    img: "https://i.imgur.com/yJK41kX.png",
     opts: {
       expansion: ["DM"],
 	  team: ["AV"]
@@ -1513,7 +1513,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Squirrel Girl",
-    img: "https://i.imgur.com/32DUyzh.png",
+    img: "https://i.imgur.com/LmDFIyz.png",
     opts: {
       expansion: ["DM"],
 	  team: ["AV"]
@@ -1521,7 +1521,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain Marvel, Agent of S.H.I.E.L.D.",
-    img: "https://i.imgur.com/KBmfJ0P.jpg",
+    img: "https://i.imgur.com/Ar1IBU2.png",
     opts: {
       expansion: ["RV"],
 	  team: ["SH"]
@@ -1529,7 +1529,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Darkhawk",
-    img: "https://i.imgur.com/dfisSLr.jpg",
+    img: "https://i.imgur.com/PnOr2sX.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1537,7 +1537,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Hellcat",
-    img: "https://i.imgur.com/nc1UG6H.jpg",
+    img: "https://i.imgur.com/nqQwjNo.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1545,7 +1545,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Photon",
-    img: "https://i.imgur.com/8UAUuU3.jpg",
+    img: "https://i.imgur.com/ACDsZsA.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1553,7 +1553,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Quicksilver",
-    img: "https://i.imgur.com/seL6LUx.jpg",
+    img: "https://i.imgur.com/QZrwZAt.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1561,7 +1561,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ronin",
-    img: "https://i.imgur.com/OnWVkYn.jpg",
+    img: "https://i.imgur.com/jjCV3vV.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1569,7 +1569,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Scarlet Witch",
-    img: "https://i.imgur.com/Dg2RznS.jpg",
+    img: "https://i.imgur.com/SaurRKI.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1577,7 +1577,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Speed",
-    img: "https://i.imgur.com/cN8Rc15.jpg",
+    img: "https://i.imgur.com/9EOvCwd.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1585,7 +1585,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "War Machine",
-    img: "https://i.imgur.com/rtK7WOw.jpg",
+    img: "https://i.imgur.com/1y7jnQy.png",
     opts: {
       expansion: ["RV"],
 	  team: ["AV"]
@@ -1593,7 +1593,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Agent Phil Coulson",
-    img: "https://i.imgur.com/ln86wnu.jpg",
+    img: "https://i.imgur.com/BuiESll.png",
     opts: {
       expansion: ["S"],
 	  team: ["SH"]
@@ -1601,7 +1601,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Deathlok",
-    img: "https://i.imgur.com/nh696WJ.jpg",
+    img: "https://i.imgur.com/sCNve3d.png",
     opts: {
       expansion: ["S"],
 	  team: ["SH"]
@@ -1609,7 +1609,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Mockingbird",
-    img: "https://i.imgur.com/W1NGjd4.jpg",
+    img: "https://i.imgur.com/2mIFlJk.png",
     opts: {
       expansion: ["S"],
 	  team: ["SH"]
@@ -1617,7 +1617,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Quake",
-    img: "https://i.imgur.com/Wko3gRN.jpg",
+    img: "https://i.imgur.com/UGn7AIW.png",
     opts: {
       expansion: ["S"],
 	  team: ["SH"]
@@ -1625,7 +1625,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Beta Ray Bill",
-    img: "https://i.imgur.com/uFhUkI1.jpg",
+    img: "https://i.imgur.com/q8NwGCm.png",
     opts: {
       expansion: ["HOA"],
 	  team: ["HA"]
@@ -1633,7 +1633,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Lady Sif",
-    img: "https://i.imgur.com/YTSVYqp.jpg",
+    img: "https://i.imgur.com/ahKgCcI.png",
     opts: {
       expansion: ["HOA"],
 	  team: ["HA"]
@@ -1641,7 +1641,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "The Warriors Three",
-    img: "https://i.imgur.com/SYQ41NI.jpg",
+    img: "https://i.imgur.com/uQVVAG3.png",
     opts: {
       expansion: ["HOA"],
 	  team: ["HA"]
@@ -1649,7 +1649,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Thor (Heroes of Asgard)",
-    img: "https://i.imgur.com/0swtiHd.jpg",
+    img: "https://i.imgur.com/ePiTIfT.png",
     opts: {
       expansion: ["HOA"],
 	  team: ["HA"]
@@ -1657,7 +1657,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Valkyrie",
-    img: "https://i.imgur.com/FRrKCjK.jpg",
+    img: "https://i.imgur.com/hMz3yXh.png",
     opts: {
       expansion: ["HOA"],
 	  team: ["HA"]
@@ -1665,7 +1665,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Karma",
-    img: "https://i.imgur.com/1dIg69Q.jpg",
+    img: "https://i.imgur.com/Un4vHjK.png",
     opts: {
       expansion: ["NM"],
 	  team: ["XM"]
@@ -1673,7 +1673,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Mirage",
-    img: "https://i.imgur.com/RYegWbK.jpg",
+    img: "https://i.imgur.com/IBCjp7v.png",
     opts: {
       expansion: ["NM"],
 	  team: ["XM"]
@@ -1681,7 +1681,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Sunspot",
-    img: "https://i.imgur.com/xVA1wHu.jpg",
+    img: "https://i.imgur.com/UJB7Av9.png",
     opts: {
       expansion: ["NM"],
 	  team: ["XM"]
@@ -1689,7 +1689,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Warlock",
-    img: "https://i.imgur.com/8U3ig7F.jpg",
+    img: "https://i.imgur.com/Jf9kToB.png",
     opts: {
       expansion: ["NM"],
 	  team: ["XM"]
@@ -1697,7 +1697,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Wolfsbane",
-    img: "https://i.imgur.com/HjNW57y.jpg",
+    img: "https://i.imgur.com/u5jgQIU.png",
     opts: {
       expansion: ["NM"],
 	  team: ["XM"]
@@ -1705,7 +1705,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Adam Warlock",
-    img: "https://i.imgur.com/hpUDkD9.jpg",
+    img: "https://i.imgur.com/TS6IdGz.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["AV"]
@@ -1713,7 +1713,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain Mar-Vell",
-    img: "https://i.imgur.com/cB1AtkF.jpg",
+    img: "https://i.imgur.com/t5QwqJC.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["AV"]
@@ -1721,7 +1721,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Moondragon",
-    img: "https://i.imgur.com/kxTPc9n.jpg",
+    img: "https://i.imgur.com/tH68oYn.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["AV"]
@@ -1729,7 +1729,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Nebula",
-    img: "https://i.imgur.com/KEm0w0r.jpg",
+    img: "https://i.imgur.com/qWcpB7Y.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["GG"]
@@ -1737,7 +1737,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Nova (Avengers)",
-    img: "https://i.imgur.com/bsNEs3F.jpg",
+    img: "https://i.imgur.com/6UHx2mG.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["AV"]
@@ -1745,7 +1745,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Phyla-Vell",
-    img: "https://i.imgur.com/B4cKYpq.jpg",
+    img: "https://i.imgur.com/HPQ7R4g.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["GG"]
@@ -1753,7 +1753,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Quasar",
-    img: "https://i.imgur.com/ZBnxxUg.jpg",
+    img: "https://i.imgur.com/WCMTact.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["AV"]
@@ -1761,7 +1761,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Ronan the Accuser",
-    img: "https://i.imgur.com/OfPzSss.jpg",
+    img: "https://i.imgur.com/ABaCTAq.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["UA"]
@@ -1769,7 +1769,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Yondu",
-    img: "https://i.imgur.com/LxdA58Q.jpg",
+    img: "https://i.imgur.com/CIBzMa0.png",
     opts: {
       expansion: ["ITC"],
 	  team: ["GG"]
