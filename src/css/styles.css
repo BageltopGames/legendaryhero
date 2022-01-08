@@ -17,7 +17,7 @@ body {
 }
 
 .progressbar {
-  
+
   width: 492px;
   border: 1px solid black;
   padding: 3px;
@@ -41,7 +41,7 @@ body {
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 400px  400px;
+  grid-template-columns: 440px  400px;
   grid-gap: 20px;
   width: 1250px;
 }
@@ -79,7 +79,7 @@ body {
   margin: 50px auto;
   background-color: #333;
 
-  border-radius: 100%;  
+  border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
 }
@@ -100,7 +100,7 @@ body {
 }
 
 @keyframes sk-scaleout {
-  0% { 
+  0% {
     -webkit-transform: scale(0);
     transform: scale(0);
   } 100% {
@@ -111,8 +111,8 @@ body {
 }
 
 .sorter > .image {
-  width: 321px;
-  height: 450px;
+  width: 437.5px;
+  height: 562.5px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
