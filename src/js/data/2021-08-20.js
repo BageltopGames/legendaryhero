@@ -33,7 +33,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Heroes of Asgard", key: "HOA" },
 	  { name: "The New Mutants", key: "NM" },
 	  { name: "Into the Cosmos", key: "ITC" },
-	  { name: "Realm of Kings", key: "ROK" } 
+	  { name: "Realm of Kings", key: "ROK" }
     ]
   },
     {
@@ -49,7 +49,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Black Widow",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/black-widow-01.jpg",
+    img: "https://i.imgur.com/nWxbsmZ.png",
     opts: {
       expansion: ["C"],
 	  team: ["AV"]
@@ -57,7 +57,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Captain America",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-01.jpg",
+    img: "https://i.imgur.com/imfF8UP.png",
     opts: {
       expansion: ["C"],
 	  team: ["AV"]
@@ -65,106 +65,106 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Cyclops",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/cyclops-01.jpg",
+    img: "https://i.imgur.com/2JDUdWk.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]		
+	  team: ["XM"]
     }
   },
    {
     name: "Deadpool (Unaffiliated)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/deadpool-01.jpg",
+    img: "https://i.imgur.com/Wuf9S5S.png",
     opts: {
       expansion: ["C"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
   },
    {
     name: "Emma Frost",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/emma-frost-01.jpg",
+    img: "https://i.imgur.com/fPU1i4x.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
     name: "Gambit",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/gambit-01.jpg",
+    img: "https://i.imgur.com/NH8JPhZ.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
     name: "Hawkeye",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/hawkeye-01.jpg",
+    img: "https://i.imgur.com/FRHHoCM.png",
     opts: {
       expansion: ["C"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
   },
    {
     name: "Hulk",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/hulk-01.jpg",
+    img: "https://i.imgur.com/v63ipHt.png",
     opts: {
       expansion: ["C"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
   },
    {
     name: "Iron Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/iron-man-01.jpg",
+    img: "https://i.imgur.com/jTztaoK.png",
     opts: {
       expansion: ["C"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
   },
    {
     name: "Nick Fury",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/nick-fury-01.jpg",
+    img: "https://i.imgur.com/YTdd0sE.png",
     opts: {
       expansion: ["C"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
   },
    {
     name: "Rogue",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/rogue-01.jpg",
+    img: "https://i.imgur.com/XD53Bhs.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
     name: "Spider-Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-man-01.jpg",
+    img: "https://i.imgur.com/DpIkr8J.png",
     opts: {
       expansion: ["C"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
   },
    {
     name: "Storm",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/storm-01.jpg",
+    img: "https://i.imgur.com/S1kk7zc.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
     name: "Thor (Avengers)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/thor-01.jpg",
+    img: "https://i.imgur.com/kt92IQv.png",
     opts: {
       expansion: ["C"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
   },
    {
     name: "Wolverine (X-Men)",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/wolverine-01.jpg",
+    img: "https://i.imgur.com/yVdft9k.png",
     opts: {
       expansion: ["C"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -172,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/angel-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/bishop-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -188,7 +188,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/blade-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -196,7 +196,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/cable-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XF"]	
+	  team: ["XF"]
     }
   },
    {
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/colossus-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XF"]	
+	  team: ["XF"]
     }
   },
    {
@@ -212,7 +212,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -220,7 +220,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/domino-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XF"]	
+	  team: ["XF"]
     }
   },
    {
@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/elektra-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -236,7 +236,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/forge-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XF"]	
+	  team: ["XF"]
     }
   },
    {
@@ -244,7 +244,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/ghost-rider-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -252,7 +252,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/iceman-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/iron-fist-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -268,7 +268,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/jean-grey-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -276,7 +276,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/nightcrawler-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -284,7 +284,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/professor-x-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
   },
    {
@@ -292,7 +292,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/punisher-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -300,7 +300,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/x-force-wolverine-01.jpg",
     opts: {
       expansion: ["DC"],
-	  team: ["XF"]	
+	  team: ["XF"]
     }
   },
    {
@@ -308,7 +308,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/mr-fantastic-01.jpg",
     opts: {
       expansion: ["F4"],
-	  team: ["F4"]	
+	  team: ["F4"]
     }
   },
    {
@@ -316,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/invisible-woman-01.jpg",
     opts: {
       expansion: ["F4"],
-	  team: ["F4"]	
+	  team: ["F4"]
     }
   },
    {
@@ -324,7 +324,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/human-torch-01.jpg",
     opts: {
       expansion: ["F4"],
-	  team: ["F4"]	
+	  team: ["F4"]
     }
   },
    {
@@ -332,7 +332,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/thing-01.jpg",
     opts: {
       expansion: ["F4"],
-	  team: ["F4"]	
+	  team: ["F4"]
     }
   },
    {
@@ -340,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/silver-surfer-01.jpg",
     opts: {
       expansion: ["F4"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
   },
    {
@@ -348,7 +348,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-cat-01.jpg",
     opts: {
       expansion: ["PTTR"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
   },
    {
@@ -356,7 +356,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/moon-knight-01.jpg",
     opts: {
       expansion: ["PTTR"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
   },
    {
@@ -364,7 +364,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/scarlet-spider-01.jpg",
     opts: {
       expansion: ["PTTR"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
   },
    {
@@ -372,7 +372,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-woman-01.jpg",
     opts: {
       expansion: ["PTTR"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
   },
    {
@@ -380,1441 +380,1440 @@ dataSet[dataSetVersion].characterData = [
     img: "https://marveldbg.com/wp-content/uploads/2019/09/symbiote-spider-man-01.jpg",
     opts: {
       expansion: ["PTTR"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },   
+  },
    {
     name: "Bullseye",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/bullseye-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["CS"]	
+	  team: ["CS"]
     }
-  }, 
+  },
    {
     name: "Dr. Octopus",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-octopus-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },      
+  },
    {
     name: "Electro",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/electro-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },      
+  },
    {
     name: "Enchantress",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/enchantress-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },      
+  },
    {
     name: "Green Goblin",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/green-goblin-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },      
+  },
    {
     name: "Juggernaut",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/juggernaut-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["BH"]	
+	  team: ["BH"]
     }
-  },      
+  },
    {
     name: "Kingpin",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/kingpin-01-1.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["CS"]	
+	  team: ["CS"]
     }
-  },      
+  },
    {
     name: "Kraven",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/kraven-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },      
+  },
    {
     name: "Loki",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/loki-01-1.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },      
+  },
    {
     name: "Magneto",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/magneto-01-1.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["BH"]	
+	  team: ["BH"]
     }
-  },      
+  },
    {
     name: "Mysterio",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/mysterio-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },      
+  },
    {
     name: "Mystique",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/mystique-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["BH"]	
+	  team: ["BH"]
     }
-  },      
+  },
    {
     name: "Sabretooth",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/sabretooth-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["BH"]	
+	  team: ["BH"]
     }
-  },      
+  },
    {
     name: "Ultron",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/ultron-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },      
+  },
    {
     name: "Venom (Sinister Six)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/venom-01.jpg",
     opts: {
       expansion: ["V"],
-	  team: ["S6"]	
+	  team: ["S6"]
     }
-  },     
+  },
    {
     name: "Star-Lord",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/star-lord-01-1.jpg",
     opts: {
       expansion: ["GG"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Gamora",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/gamora-01.jpg",
     opts: {
       expansion: ["GG"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Drax",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/drax-01.jpg",
     opts: {
       expansion: ["GG"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Rocket Raccoon",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/rocket-01.jpg",
     opts: {
       expansion: ["GG"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Groot",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/groot-01.jpg",
     opts: {
       expansion: ["GG"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },      
+  },
    {
     name: "Greithoth, Breaker of Wills",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/greithoth-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },         
+  },
    {
     name: "Kuurth, Breaker of Stone",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/kuurth-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },         
+  },
    {
     name: "Nerkkod, Breaker of Oceans",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/nerkkod-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },         
+  },
    {
     name: "Nul, Breaker of Worlds",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/nul-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },         
+  },
    {
     name: "Skirn, Breaker of Men",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/skirn-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["FA"]	
+	  team: ["FA"]
     }
-  },         
+  },
    {
     name: "Skadi",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/skadi-01.jpg",
     opts: {
       expansion: ["FI"],
-	  team: ["HY"]	
+	  team: ["HY"]
     }
-  },         
+  },
    {
     name: "Apocalyptic Kitty Pryde",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/apocalyptic-kitty-pryde-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Black Bolt (Illuminati)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-bolt-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Black Panther",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Captain Marvel",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-marvel-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Dr. Strange",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-strange-01-1.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Lady Thor",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/lady-thor-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Magik",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/magik-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Maximus",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/maximus-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Namor, the Sub-Mariner",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/namor-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Old Man Logan",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/old-man-logan-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Proxima Midnight",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/proxima-midnight-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Superior Iron Man",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/superior-iron-man-01.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Thanos",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/thanos-01-1.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Ultimate Spider-Man",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/ultimate-spider-man-05.jpg",
     opts: {
       expansion: ["SW1"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Agent Venom",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-venom-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Arkon the Magnificent",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/arkon-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "Beast (Illuminati)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/beast-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Black Swan",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-swan-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Captain Britain",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-britain-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["IL"]	
+	  team: ["IL"]
     }
-  },         
+  },
    {
     name: "Corvus Glaive",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/corvus-glaive-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["CB"]	
+	  team: ["CB"]
     }
-  },         
+  },
    {
     name: "Dr. Punisher, Soldier Supreme",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-punisher-soldier-supreme-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
-  },         
+  },
    {
     name: "Elsa Bloodstone",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/elsa-bloodstone-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Phoenix Force Cyclops",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/phoenix-force-cyclops-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Ruby Summers",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/ruby-summers-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Shang-Chi",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/shang-chi-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
-  },         
+  },
    {
     name: "Silk",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/silk-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Soulsword Colossus",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/soulsword-colossus-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Spider-Gwen",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-gwen-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "The Captain & the Devil",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-and-the-devil-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Time-Traveling Jean Grey",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/time-traveling-jean-grey-01.jpg",
     opts: {
       expansion: ["SW2"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Agent X-13",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/agent-x-13-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Captain America 1941",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-1941-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Captain America (Falcon)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Steve Rogers, Director of S.H.I.E.L.D.",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/steve-rogers-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Winter Soldier",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/winter-soldier-01.jpg",
     opts: {
       expansion: ["CA"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "Bob, Agent of HYDRA",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/bob-01.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["HY"]	
+	  team: ["HY"]
     }
-  },         
+  },
    {
     name: "Deadpool (Mercs for Money)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/deadpool-01-1.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["MM"]	
+	  team: ["MM"]
     }
-  },         
+  },
    {
     name: "Solo",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/solo-01.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["MM"]	
+	  team: ["MM"]
     }
-  },         
+  },
    {
     name: "Stingray",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/stingray-01.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["MM"]	
+	  team: ["MM"]
     }
-  },         
+  },
    {
     name: "Slapstick",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/slapstick-01.jpg",
     opts: {
       expansion: ["DP"],
-	  team: ["MM"]	
+	  team: ["MM"]
     }
-  },         
+  },
    {
     name: "Captain America, Secret Avenger",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/captain-america-secret-avenger-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Cloak & Dagger",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/cloak-and-dagger-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","MK"]	
+	  team: ["AV","MK"]
     }
-  },         
+  },
    {
     name: "Daredevil (Avengers)",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-1.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","MK"]	
+	  team: ["AV","MK"]
     }
-  },         
+  },
    {
     name: "Falcon",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/falcon-01-1.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Goliath",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/goliath-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Hercules",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/hercules-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","UA"]	
+	  team: ["AV","UA"]
     }
-  },         
+  },
    {
     name: "Hulkling",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/hulkling-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Luke Cage",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","MK"]	
+	  team: ["AV","MK"]
     }
-  },         
+  },
    {
     name: "Patriot",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/patriot-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Peter Parker",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/peter-parker-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","SF"]	
+	  team: ["AV","SF"]
     }
-  },         
+  },
    {
     name: "Speedball",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/speedball-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["NW"]	
+	  team: ["NW"]
     }
-  },         
+  },
    {
     name: "Stature",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/stature-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Storm & Black Panther",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/black-panther-and-storm-01-1.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV","XM"]	
+	  team: ["AV","XM"]
     }
-  },         
+  },
    {
     name: "Tigra",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/tigra-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Vision",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/vision-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Wiccan",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/wiccan-01.jpg",
     opts: {
       expansion: ["CW"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Angel Noir",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/angel-noir-01.jpg",
     opts: {
       expansion: ["NOIR"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Daredevil Noir",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/daredevil-01-2.jpg",
     opts: {
       expansion: ["NOIR"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
-  },         
+  },
    {
     name: "Iron Man Noir",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/iron-man-noir-01.jpg",
     opts: {
       expansion: ["NOIR"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Luke Cage Noir",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/luke-cage-noir-01.jpg",
     opts: {
       expansion: ["NOIR"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
-  },         
+  },
    {
     name: "Spider-Man Noir",
     img: "https://marveldbg.com/wp-content/uploads/2019/09/spider-man-noir-01.jpg",
     opts: {
       expansion: ["NOIR"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Aurora & Northstar",
     img: "https://i.imgur.com/X5GNPPd.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Banshee",
     img: "https://i.imgur.com/EunCbtJ.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Beast (X-Men)",
     img: "https://i.imgur.com/vbRD2io.png.jpg",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Cannonball",
     img: "https://i.imgur.com/tolduBu.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Colossus & Wolverine",
     img: "https://i.imgur.com/lRt7HQo.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Dazzler",
     img: "https://i.imgur.com/Wgj3tOM.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Havok",
     img: "https://i.imgur.com/LTC36Wx.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Jubilee",
     img: "https://i.imgur.com/9wbpO2M.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Kitty Pryde",
     img: "https://i.imgur.com/YbzMZG1.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Legion",
     img: "https://i.imgur.com/TNZRPx4.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Longshot",
     img: "https://i.imgur.com/UMkU0vO.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Phoenix",
     img: "https://i.imgur.com/hWyxhoB.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Polaris",
     img: "https://i.imgur.com/5fwZbYI.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Psylocke",
     img: "https://i.imgur.com/NjfCD1c.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "X-23",
     img: "https://i.imgur.com/AufdbKP.png",
     opts: {
       expansion: ["XM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Happy Hogan",
     img: "https://i.imgur.com/5HOIsEG.png",
     opts: {
       expansion: ["SMH"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "High Tech Spider-Man",
     img: "https://i.imgur.com/3rgh4hQ.png",
     opts: {
       expansion: ["SMH"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Peter Parker, Homecoming",
     img: "https://i.imgur.com/KqblvIj.png",
     opts: {
       expansion: ["SMH"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Peter's Allies",
     img: "https://i.imgur.com/YgYgLxh.png",
     opts: {
       expansion: ["SMH"],
-	  team: ["SF"]	
+	  team: ["SF"]
     }
-  },         
+  },
    {
     name: "Tony Stark",
     img: "https://i.imgur.com/4lQpGUO.png",
     opts: {
       expansion: ["SMH"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Gwenpool",
     img: "https://i.imgur.com/NdDnPia.png",
     opts: {
       expansion: ["CHP"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Ms. Marvel",
     img: "https://i.imgur.com/dv1sfCr.png",
     opts: {
       expansion: ["CHP"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Nova (Champions)",
     img: "https://i.imgur.com/wRJHwMM.png",
     opts: {
       expansion: ["CHP"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Totally Awesome Hulk",
     img: "https://i.imgur.com/8PLuiVG.png",
     opts: {
       expansion: ["CHP"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Viv Vision",
     img: "https://i.imgur.com/U9hlkfI.png",
     opts: {
       expansion: ["CHP"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Amadeus Cho",
     img: "https://i.imgur.com/4QsCmb1.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "No-Name, Brood Queen",
     img: "https://i.imgur.com/3JPsq0N.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Bruce Banner",
     img: "https://i.imgur.com/ozZhPgF.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Caiera",
     img: "https://i.imgur.com/hIhIq2c.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Gladiator Hulk",
     img: "https://i.imgur.com/uN8fBNT.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Hiroim",
     img: "https://i.imgur.com/O9sWkIL.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Hulkbuster Iron Man",
     img: "https://i.imgur.com/PxOdKio.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Joe Fixit, Grey Hulk",
     img: "https://i.imgur.com/l4RrxYn.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["CS"]	
+	  team: ["CS"]
     }
-  },         
+  },
    {
     name: "Korg",
     img: "https://i.imgur.com/JZaXYUU.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Miek, The Unhived",
     img: "https://i.imgur.com/6rjtbEj.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["WB"]	
+	  team: ["WB"]
     }
-  },         
+  },
    {
     name: "Namora",
     img: "https://i.imgur.com/veeypHz.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["CH"]	
+	  team: ["CH"]
     }
-  },         
+  },
    {
     name: "Rick Jones",
     img: "https://i.imgur.com/LGtqvzT.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV", "SH","UA"]	
+	  team: ["AV", "SH","UA"]
     }
-  },         
+  },
    {
     name: "Sentry",
     img: "https://i.imgur.com/0U8czAo.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV","UA"]	
+	  team: ["AV","UA"]
     }
-  },         
+  },
    {
     name: "She-Hulk",
     img: "https://i.imgur.com/l6phoLu.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Skaar, Son of Hulk",
     img: "https://i.imgur.com/MzmJGu6.jpg",
     opts: {
       expansion: ["WWH"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Ant-Man",
     img: "https://i.imgur.com/JnK3dnT.png",
     opts: {
       expansion: ["AM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Black Knight",
     img: "https://i.imgur.com/vs7Oi9w.png",
     opts: {
       expansion: ["AM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Jocasta",
     img: "https://i.imgur.com/z9gacc8.png",
     opts: {
       expansion: ["AM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Wasp",
     img: "https://i.imgur.com/wg7HNY7.png",
     opts: {
       expansion: ["AM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Wonder Man",
     img: "https://i.imgur.com/orPhXWV.png",
     opts: {
       expansion: ["AM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Carnage",
     img: "https://i.imgur.com/4fc1aGe.png",
     opts: {
       expansion: ["VN"],
-	  team: ["VV"]	
+	  team: ["VV"]
     }
-  },         
+  },
    {
     name: "Venom (Venomverse)",
     img: "https://i.imgur.com/F4ERUnt.png",
     opts: {
       expansion: ["VN"],
-	  team: ["VV"]	
+	  team: ["VV"]
     }
-  },         
+  },
    {
     name: "Venomized Dr. Strange",
     img: "https://i.imgur.com/nTdSc79.png",
     opts: {
       expansion: ["VN"],
-	  team: ["VV"]	
+	  team: ["VV"]
     }
-  },         
+  },
    {
     name: "Venompool",
     img: "https://i.imgur.com/eNjnuGl.png",
     opts: {
       expansion: ["VN"],
-	  team: ["VV"]	
+	  team: ["VV"]
     }
-  },         
+  },
    {
     name: "Venom Rocket",
     img: "https://i.imgur.com/Xoqx0By.jpg",
     opts: {
       expansion: ["VN"],
-	  team: ["VV"]	
+	  team: ["VV"]
     }
-  },         
+  },
    {
     name: "Howard the Duck",
     img: "https://i.imgur.com/sUeJNHs.png",
     opts: {
       expansion: ["DM"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "Jessica Jones",
     img: "https://i.imgur.com/r7DVc36.png",
     opts: {
       expansion: ["DM"],
-	  team: ["MK"]	
+	  team: ["MK"]
     }
-  },         
+  },
    {
     name: "Man-Thing",
     img: "https://i.imgur.com/Gv82Sqz.png",
     opts: {
       expansion: ["DM"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "Ms. America",
     img: "https://i.imgur.com/sHwSPYT.png",
     opts: {
       expansion: ["DM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Squirrel Girl",
     img: "https://i.imgur.com/32DUyzh.png",
     opts: {
       expansion: ["DM"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Captain Marvel, Agent of S.H.I.E.L.D.",
     img: "https://i.imgur.com/KBmfJ0P.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Darkhawk",
     img: "https://i.imgur.com/dfisSLr.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Hellcat",
     img: "https://i.imgur.com/nc1UG6H.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Photon",
     img: "https://i.imgur.com/8UAUuU3.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Quicksilver",
     img: "https://i.imgur.com/seL6LUx.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Ronin",
     img: "https://i.imgur.com/OnWVkYn.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Scarlet Witch",
     img: "https://i.imgur.com/Dg2RznS.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Speed",
     img: "https://i.imgur.com/cN8Rc15.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "War Machine",
     img: "https://i.imgur.com/rtK7WOw.jpg",
     opts: {
       expansion: ["RV"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Agent Phil Coulson",
     img: "https://i.imgur.com/ln86wnu.jpg",
     opts: {
       expansion: ["S"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Deathlok",
     img: "https://i.imgur.com/nh696WJ.jpg",
     opts: {
       expansion: ["S"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Mockingbird",
     img: "https://i.imgur.com/W1NGjd4.jpg",
     opts: {
       expansion: ["S"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Quake",
     img: "https://i.imgur.com/Wko3gRN.jpg",
     opts: {
       expansion: ["S"],
-	  team: ["SH"]	
+	  team: ["SH"]
     }
-  },         
+  },
    {
     name: "Beta Ray Bill",
     img: "https://i.imgur.com/uFhUkI1.jpg",
     opts: {
       expansion: ["HOA"],
-	  team: ["HA"]	
+	  team: ["HA"]
     }
-  },         
+  },
    {
     name: "Lady Sif",
     img: "https://i.imgur.com/YTSVYqp.jpg",
     opts: {
       expansion: ["HOA"],
-	  team: ["HA"]	
+	  team: ["HA"]
     }
-  },         
+  },
    {
     name: "The Warriors Three",
     img: "https://i.imgur.com/SYQ41NI.jpg",
     opts: {
       expansion: ["HOA"],
-	  team: ["HA"]	
+	  team: ["HA"]
     }
-  },         
+  },
    {
     name: "Thor (Heroes of Asgard)",
     img: "https://i.imgur.com/0swtiHd.jpg",
     opts: {
       expansion: ["HOA"],
-	  team: ["HA"]	
+	  team: ["HA"]
     }
-  },         
+  },
    {
     name: "Valkyrie",
     img: "https://i.imgur.com/FRrKCjK.jpg",
     opts: {
       expansion: ["HOA"],
-	  team: ["HA"]	
+	  team: ["HA"]
     }
-  },         
+  },
    {
     name: "Karma",
     img: "https://i.imgur.com/1dIg69Q.jpg",
     opts: {
       expansion: ["NM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Mirage",
     img: "https://i.imgur.com/RYegWbK.jpg",
     opts: {
       expansion: ["NM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Sunspot",
     img: "https://i.imgur.com/xVA1wHu.jpg",
     opts: {
       expansion: ["NM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Warlock",
     img: "https://i.imgur.com/8U3ig7F.jpg",
     opts: {
       expansion: ["NM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Wolfsbane",
     img: "https://i.imgur.com/HjNW57y.jpg",
     opts: {
       expansion: ["NM"],
-	  team: ["XM"]	
+	  team: ["XM"]
     }
-  },         
+  },
    {
     name: "Adam Warlock",
     img: "https://i.imgur.com/hpUDkD9.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Captain Mar-Vell",
     img: "https://i.imgur.com/cB1AtkF.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Moondragon",
     img: "https://i.imgur.com/kxTPc9n.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Nebula",
     img: "https://i.imgur.com/KEm0w0r.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Nova (Avengers)",
     img: "https://i.imgur.com/bsNEs3F.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Phyla-Vell",
     img: "https://i.imgur.com/B4cKYpq.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Quasar",
     img: "https://i.imgur.com/ZBnxxUg.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["AV"]	
+	  team: ["AV"]
     }
-  },         
+  },
    {
     name: "Ronan the Accuser",
     img: "https://i.imgur.com/OfPzSss.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["UA"]	
+	  team: ["UA"]
     }
-  },         
+  },
    {
     name: "Yondu",
     img: "https://i.imgur.com/LxdA58Q.jpg",
     opts: {
       expansion: ["ITC"],
-	  team: ["GG"]	
+	  team: ["GG"]
     }
-  },         
+  },
    {
     name: "Black Bolt (Inhumans)",
     img: "https://i.imgur.com/bhd4517.png",
     opts: {
       expansion: ["ROK"],
-	  team: ["IH"]	
+	  team: ["IH"]
     }
-  },         
+  },
    {
     name: "Medusa",
     img: "https://i.imgur.com/MC0Go9N.png",
     opts: {
       expansion: ["ROK"],
-	  team: ["IH"]	
+	  team: ["IH"]
     }
-  },         
+  },
    {
     name: "Karnak",
     img: "https://i.imgur.com/E1rUWbS.png",
     opts: {
       expansion: ["ROK"],
-	  team: ["IH"]	
+	  team: ["IH"]
     }
-  },         
+  },
    {
     name: "Gorgon",
     img: "https://i.imgur.com/3vG0jzI.png",
     opts: {
       expansion: ["ROK"],
-	  team: ["IH"]	
+	  team: ["IH"]
     }
-  },         
+  },
    {
     name: "Crystal",
     img: "https://i.imgur.com/tO4wiII.png",
     opts: {
       expansion: ["ROK"],
-	  team: ["IH"]	
+	  team: ["IH"]
     }
-  },         
-   
-];
+  },
 
+];
