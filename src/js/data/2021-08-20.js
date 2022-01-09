@@ -369,7 +369,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Spider-Woman",
-    img: "https://i.imgur.com/Dzv2dul.png",
+    img: "https://i.imgur.com/IrfOtwk.png",
     opts: {
       expansion: ["PTTR"],
 	  team: ["SF"]
